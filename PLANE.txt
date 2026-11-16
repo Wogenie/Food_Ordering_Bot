@@ -1,0 +1,14 @@
+1. Pending
+        Owner can accept or reject the order.
+
+2. Accepted
+    Owner gets a Start Preparing button.
+
+3. Preparing
+        Owner gets a Mark Ready button.
+
+4. Ready
+        Owner gets a Mark Delivered button.
+
+5. Delivered
+        Final order status.
